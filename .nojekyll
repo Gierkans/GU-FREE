@@ -1,0 +1,5 @@
+Šis failas turėtų būti įkeltas į GitHub ir pervadintas į:
+
+.nojekyll
+
+Tai išjungs Jekyll ir leis HTML failams veikti taip, kaip yra. GitHub Pages tuomet nebandys jų apdoroti automatiškai.
