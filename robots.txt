@@ -1,0 +1,4 @@
+
+User-agent: *
+Allow: /
+Sitemap: https://gierkans.github.io/BE-GU/zmogaus_zinute_AI.html
